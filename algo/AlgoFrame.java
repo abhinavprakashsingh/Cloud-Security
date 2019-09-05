@@ -61,7 +61,7 @@ public class AlgoFrame extends JFrame
 	  String uploadFileName = new String(); 
             Scanner sc=new Scanner(System.in); 
             AWSCredentials credentials = new BasicAWSCredentials(
-				"AKIA3NNT3DYDBILEH7WE",  "f9E3Xx/dxW4X6ysUd9aL+hLaMzBICgDFvbJFdf1/");
+				"XXXXXXXXXXXXXXXX",  "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
        
             
     String initDir = null;
