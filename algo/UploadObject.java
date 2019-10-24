@@ -34,7 +34,7 @@ public class UploadObject {
             Scanner sc=new Scanner(System.in); 
             
             AWSCredentials credentials = new BasicAWSCredentials(
-            		"AKIA3NNT3DYDBILEH7WE",  "f9E3Xx/dxW4X6ysUd9aL+hLaMzBICgDFvbJFdf1/");
+            		"xxxxxxxxxxxxxxxxxxxx",  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
             /*
             public void set_uploadFileName(String u)
         {
