@@ -132,7 +132,7 @@ public class UploadObjectSingleOperation {
 	
 	public static void main(String[] args) throws IOException {
 		AWSCredentials Credentials = new BasicAWSCredentials(
-				"AKIA3NNT3DYDBILEH7WE",  "f9E3Xx/dxW4X6ysUd9aL+hLaMzBICgDFvbJFdf1/");
+				"XXXXXXXXXXXXXXXX",  "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
 		UploadObjectSingleOperation s3client = new UploadObjectSingleOperation();
         	s3client.uploadfile(Credentials);
 	        //s3client.deletefile(Credentials);
