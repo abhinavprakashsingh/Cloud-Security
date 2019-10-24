@@ -173,7 +173,7 @@ public class UploadObject {
 
 	public static void main(String args[]) throws IOException       {
 		AWSCredentials Credentials = new BasicAWSCredentials(
-				"AKIA3NNT3DYDBILEH7WE",  "f9E3Xx/dxW4X6ysUd9aL+hLaMzBICgDFvbJFdf1/");
+				"xxxxxxxxxxxxxxxxxx",  "xxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 	    
                    
                 UploadObject u2=new UploadObject("CIVIL.jpg","C:\\Users\\abhin\\Desktop\\CIVIL.jpg" );
